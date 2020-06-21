@@ -327,7 +327,7 @@ export default Colors =  {
     Cream                   :    '#FEFBD2',
     Blue4                   :    '#4086F5',
     Blur                    :    'rgba(0,0,0,0.4)',
-    
+    IconColor               :    '#DB90C5',
     
     // Color Code
     
